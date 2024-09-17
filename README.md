@@ -1,2 +1,1 @@
 # bash-script
-# bash-script
